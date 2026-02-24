@@ -1,0 +1,32 @@
+# Dependencies
+/bawue-wahlomat/node_modules/
+
+# Build output
+dist/
+mdist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vite
+*.local
+
+# Optional: keep build in version control by commenting out dist/ and mdist/
+
+/wahlprogramme/*
